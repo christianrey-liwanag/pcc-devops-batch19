@@ -1,0 +1,5 @@
+#This is the second text file for the activity.
+
+echo This is the second text file.
+
+exit
